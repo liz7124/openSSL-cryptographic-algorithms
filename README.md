@@ -1,6 +1,11 @@
 # openSSL-cryptographic-algorithms
 Tutorial for using OpenSSL Digital Signature and Hash Functions
 
+## Requirements
+Install OpenSSL library:
+
+https://tecadmin.net/install-openssl-on-windows/
+
 ## Create Message
 1. Open your command prompt
 2. Type ```echo dataencrypt > message.txt```. "dataencrypt" is the message you want to process and will be stored in a file with the name "message.txt".
